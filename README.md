@@ -1,8 +1,10 @@
 
-- 🔭 I’m currently working on Python projects;
-- 👯 I’m looking for a job in the field of Python development;
-- 🌱 I’m always learning new things;
-- 📫 You can reach me via: email - andrey.dmi3ev@yandex.com or telegram - [@dmi3ev_555](https://t.me/dmi3ev_555).
+- 🔭 I’m currently working on Python projects.
+- 👯 I’m looking for a job in Python development.
+- 🌱 I’m always learning new things.
+- 📫 You can reach me via:
+  - Email: andrey.dmi3ev@yandex.com
+  - Telegram: [@dmi3ev_555](https://t.me/dmi3ev_555)
 
 ###### Languages and tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
