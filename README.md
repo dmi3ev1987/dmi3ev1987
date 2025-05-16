@@ -34,6 +34,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
-
+###### Code Practice Platforms Links:
+[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/dmi3ev1987)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dmi3ev1987/)
 
