@@ -32,4 +32,5 @@
 ###### Code Practice Platforms Links:
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/dmi3ev1987)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dmi3ev1987/)
+[![Stepik](https://img.shields.io/badge/Stepik-4CAF50?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/659799632/profile)
 
